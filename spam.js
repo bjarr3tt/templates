@@ -13,6 +13,14 @@ function stringReverse(textString) {
    return revString;
 }
 
+/* 
+    Enter the following function statement into the page itself. The proper syntax to use when calling the function on the page is:
+    
+    <script type="text/javascript"> showEM("liam","moc.liam");</script> 
+    
+    This will the display this email: mail@mail.com. Please change as you need to. 
+    //////////////////////////////////////////////////////////////////////////////////
+    
 function showEM(userName,emServer) {
         
                 userName = stringReverse(userName); 
@@ -23,3 +31,4 @@ function showEM(userName,emServer) {
                 document.write(emLink);
                 document.write("</a>");
             }
+*/
